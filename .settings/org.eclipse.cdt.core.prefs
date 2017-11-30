@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.671646801/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.671646801/LD_LIBRARY_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.671646801/LD_LIBRARY_PATH/value=/home/ctools/arm-4.8.4/lib
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.671646801/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.671646801/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.lib.debug.647743894/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.lib.debug.647743894/LD_LIBRARY_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.lib.debug.647743894/LD_LIBRARY_PATH/value=/home/ctools/arm-4.8.4/lib
+environment/project/cdt.managedbuild.config.gnu.cross.lib.debug.647743894/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.lib.debug.647743894/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.lib.release.2016756858/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.lib.release.2016756858/LD_LIBRARY_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.lib.release.2016756858/LD_LIBRARY_PATH/value=/home/ctools/arm-4.8.4/lib
+environment/project/cdt.managedbuild.config.gnu.cross.lib.release.2016756858/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.lib.release.2016756858/appendContributed=true
